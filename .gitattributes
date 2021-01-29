@@ -1,6 +1,6 @@
-*.html linguist-detectable=java
-*.css linguist-detectable=html
-*.scss linguist-detectable=css
+*.html linguist-language=java
+*.css linguist-language=html
+*.scss linguist-language=css
 
 
 
